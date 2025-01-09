@@ -9,11 +9,11 @@ The goal of this project is to fine-tune the T-Lite model (a Russian LLM that bu
 
 ## Foundations
 
-Model: [t-tech/T-lite-it-1.0-Q8_0-GGUF](https://huggingface.co/t-tech/T-lite-it-1.0-Q8_0-GGUF)
+Model: [t-tech/T-lite-it-1.0](https://huggingface.co/t-tech/T-lite-it-1.0)
 
-Dataset: [Russian thinking dataset](https://huggingface.co/datasets/Egor-AI/Russian_thinking_dataset)
+Dataset: [Egor-AI/Dataset_of_Russian_thinking](https://huggingface.co/datasets/Egor-AI/Dataset_of_Russian_thinking)
 
-Techniques: SFT, LoRA, quantization
+Techniques: SFT, quantization, (Q)LoRa
 
 
 ## References to study
